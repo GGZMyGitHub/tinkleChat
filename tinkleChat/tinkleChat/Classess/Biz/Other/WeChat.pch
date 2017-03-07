@@ -1,0 +1,25 @@
+//
+//  WeChat.pch
+//  tinkleChat
+//
+//  Created by apple on 16/9/28.
+//  Copyright © 2016年 GGZ. All rights reserved.
+//
+
+#ifndef WeChat_pch
+#define WeChat_pch
+
+
+#import "EaseMob.h"
+
+#import "GGZLoginController.h"
+
+#import "GGZRootNavigationController.h"
+
+#import "UIViewExt.h"
+
+#import "GGZButton.h"
+
+#import "TKAlertCenter.h"
+
+#endif /* WeChat_pch */
